@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Medicina familiar",
+        "imagen": "img/medicinageneral.jpg"
+    },
+    {
+        "nombre": "Enfermedades musculo esqueléticas",
+        "imagen": "img/musculoesqueleticas.jpg"
+    },
+    {
+        "nombre": "Enfermedades respiratorias",
+        "imagen": "img/respiratorias.jpg"
+    },
+    {
+        "nombre": "Ansiedad y depresión",
+        "imagen": "img/ansiedaddepresion.jpg"
+    },
+    {
+        "nombre": "Control de embarazo",
+        "imagen": "img/controlembarazo.jpg"
+    },
+    {
+        "nombre": "Diagnóstico y control de hipertensión",
+        "imagen": "img/hipertension.jpg"
+    },
+    {
+        "nombre": "Diagnóstico y control de diabetes",
+        "imagen": "img/diabetesmellitus.jpg"
+    },
+    {
+        "nombre": "Atención del niño y adolescente",
+        "imagen": "img/ninosadolescentes.jpg"
+    },
+    {
+        "nombre": "Atención del adulto mayor",
+        "imagen": "img/adultomayor.jpg"
+    }
+]

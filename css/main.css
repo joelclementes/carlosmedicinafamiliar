@@ -1,0 +1,42 @@
+header{
+    margin-top: 57px;
+}
+
+.card-fotoinicio{
+    height:100%
+}
+
+.text-azul{
+    color:#10286D;
+}
+
+.bg-azul{
+    background: #10286D;
+}
+
+.text-verde{
+    color:#28F3AA;
+}
+
+.bg-verde{
+    background: #28F3AA;
+}
+
+#perfil{
+    padding: 20px;
+    background:#fff;
+}
+
+.card-servicio{
+    padding-bottom: 25px;
+}
+
+.fotoperfil{
+    border-radius: 100% !important;
+    width: 100%;
+    
+}
+
+footer{
+    margin-top: 40px;    
+}

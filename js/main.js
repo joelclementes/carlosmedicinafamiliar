@@ -1,3 +1,7 @@
+$('.navbar-nav>li>a').on('click', function(){
+    $('.navbar-collapse').collapse('hide');
+});
+
 new Vue({
     el: '#VueServicios',
     data:{

@@ -13,8 +13,8 @@
     {/* SEO */}
     <meta name="title" content="Carlos Medicina Familiar" />
     <meta name="author" content="jclementes" />
-    <meta name="description" content="Dr. Carlos Espinoza. Especialista en medicina familiar. Provee la mejor calidad en atención Médica" />
-    <meta name="keywords" content="Doctor, salud, especialista, servicio médico, medicina, familiar, enfermedades, respiratorias, cardiovascular, ansiedad, depresión, embarazo, hipertensión, diabetes, adulto mayor " />
+    <meta name="description" content="Dr. Carlos Espinoza. Especialista en medicina familiar. Provee la mejor calidad en atención Médica. Xalapa, Veracruz." />
+    <meta name="keywords" content="Doctor, salud, especialista, xalapa, imss, servicio médico, medicina, familiar, enfermedades, respiratorias, cardiovascular, ansiedad, depresión, embarazo, hipertensión, diabetes, adulto mayor " />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="og:title" content="Dr. Carlos Espinoza | Provee la mejor calidad en atención Médica"></meta>
     <meta name="og:image" content="/img/fotoperfil.jpeg"/>
@@ -56,7 +56,7 @@
             <section id="inicio" class="row pb-5">
                 <br><br><br>
                 <div class="card border-0 card-fotoinicio">
-                    <img src="img/encabezado.png" alt="" />
+                    <img src="img/encabezado.png" alt="Doctor Carlos Espinoza | Medicina familiar | Xalapa, Veracruz" />
                 </div>
             </section>
 
@@ -66,7 +66,7 @@
                 <div class="row" id="VueServicios">
                     <div v-for="service in services" class="col-xs-12 col-lg-6 col-lg-6 col-xl-4 text-center">
                         <div class="card border-0 card-servicio">
-                            <img :src="service.imagen" class="rounded-top"/>
+                            <img :src="service.imagen" :alt="service.altimg" class="rounded-top"/>
                             <div class="card-body align-middle text-verde bg-azul rounded-bottom">
                                 {{ service.nombre }}
                             </div>
@@ -80,7 +80,7 @@
                 <h1 class="text-center">Acerca de mi</h1>
                 <div class="row">
                     <div class="col-xs-12 col-sm-4 text-center pb-4">
-                        <img src="img/fotoperfil.png" class="shadow p-1 mb-2 bg-body fotoperfil" />
+                        <img src="img/fotoperfil.png" alt="Fotografía de perfil del Dr. Carlos Espinoza | Medicina familiar" class="shadow p-1 mb-2 bg-body fotoperfil" />
                         Dr. Carlos Espinoza
                     </div>
                     <div class="col-xs-12 col-sm-8">
@@ -115,7 +115,7 @@
                     <div class="col-md-6 text-center">
                         <a href="https://api.whatsapp.com/send/?phone=522281260925&text=Hola Dr., deseo agendar una cita&app_absent=0" target="_blank">
                             <div class="card border-0">
-                                <img src="img/agendaCitaWhatsApp-01.png"/>
+                                <img src="img/agendaCitaWhatsApp-01.png" alt="Link para agendar cita"/>
                             </div>
                         </a>
                     </div>

@@ -1,38 +1,47 @@
 [
     {
         "nombre": "Medicina familiar",
-        "imagen": "img/medicinageneral.jpg"
+        "imagen": "img/medicinageneral.jpg",
+        "altimg": "medicina familiar"
     },
     {
         "nombre": "Enfermedades musculo esqueléticas",
-        "imagen": "img/musculoesqueleticas.jpg"
+        "imagen": "img/musculoesqueleticas.jpg",
+        "altimg": "Enfermedades musuculo esqueléticas | musculo-esqueléticas"
     },
     {
         "nombre": "Enfermedades respiratorias",
-        "imagen": "img/respiratorias.jpg"
+        "imagen": "img/respiratorias.jpg",
+        "altimg": "Enfermedades respiratorias"
     },
     {
         "nombre": "Ansiedad y depresión",
-        "imagen": "img/ansiedaddepresion.jpg"
+        "imagen": "img/ansiedaddepresion.jpg",
+        "altimg": "Ansiedad y depresión"
     },
     {
         "nombre": "Control de embarazo",
-        "imagen": "img/controlembarazo.jpg"
+        "imagen": "img/controlembarazo.jpg",
+        "altimg": "Control de embarazo"
     },
     {
         "nombre": "Diagnóstico y control de hipertensión",
-        "imagen": "img/hipertension.jpg"
+        "imagen": "img/hipertension.jpg",
+        "altimg": "Diagnóstico y control de hipertensión"
     },
     {
         "nombre": "Diagnóstico y control de diabetes",
-        "imagen": "img/diabetesmellitus.jpg"
+        "imagen": "img/diabetesmellitus.jpg",
+        "altimg": "Diagnóstico y control de diabetes"
     },
     {
         "nombre": "Atención del niño y adolescente",
-        "imagen": "img/ninosadolescentes.jpg"
+        "imagen": "img/ninosadolescentes.jpg",
+        "altimg": "Atención del niño y adolescentes"
     },
     {
         "nombre": "Atención del adulto mayor",
-        "imagen": "img/adultomayor.jpg"
+        "imagen": "img/adultomayor.jpg",
+        "altimg": "Atención del adulto mayor"
     }
 ]

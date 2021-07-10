@@ -55,8 +55,8 @@
                 <div class="row" id="VueServicios">
                     <div v-for="service in services" class="col-xs-12 col-lg-6 col-lg-6 col-xl-4 text-center">
                         <div class="card border-0 card-servicio">
-                            <img :src="service.imagen" />
-                            <div class="card-body align-middle text-verde bg-azul">
+                            <img :src="service.imagen" class="rounded-top"/>
+                            <div class="card-body align-middle text-verde bg-azul rounded-bottom">
                                 {{ service.nombre }}
                             </div>
                         </div>
@@ -131,8 +131,7 @@
         crossorigin="anonymous"></script>
         
     <!-- Axios -->
-    <!-- <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script> -->
-    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 
     <!-- Vue js -->
     <script src="js/vue.js"></script>

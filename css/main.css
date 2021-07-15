@@ -38,10 +38,14 @@ header{
 
 .fotoperfil{
     border-radius: 100% !important;
-    width: 100%;
+    width: 60%;
     
 }
 
 footer{
     margin-top: 40px;    
+}
+
+.btn-whatsapp{
+    width: 60%;
 }
